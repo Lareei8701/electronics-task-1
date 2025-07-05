@@ -2,12 +2,12 @@
 # Arduino Button-Controlled LEDs (Tinkercad Simulation)
 A simple circuit where 3 pushbuttons control 3 LEDs using Arduino Uno.
 
-## 🌟 Features
+## Features
 - Press-button LED activation
 - Tinkercad simulation-ready
 - No physical components required
 
-## 🛠️ Components
+##  Components
 | Component       | Quantity | Tinkercad Search Term |
 |-----------------|----------|-----------------------|
 | Arduino Uno R3  | 1        | "Arduino Uno"         |
